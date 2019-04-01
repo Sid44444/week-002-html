@@ -1,0 +1,24 @@
+Dynamic parts to this application include:
+
+The text box for adding things to do.
+The total number of things to do after colon.
+The done button.
+The delete button.
+The number of task.
+How many tasks there are.
+Selection of language.
+
+Problems these dynamic parts may encounter:
+
+The text box may be too small/not scroll.
+Does the text box take numbers too?
+People may want to see tasks they have completed, so can the task remain with a line through or will this become messy?
+Delete tasks; is there a reason for deletion, option to completely delete or cross out?
+The numbering of tasks could prove difficult with deletion and done boxes (will the numbers change).
+When the task is done should it still have a number and be visable (feeling of accomplishment)?
+Will search engines locate this app easily?
+Are there other language options?
+Grammar and spelling checker for tasks?
+Adverts
+
+
