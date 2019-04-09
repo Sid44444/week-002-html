@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    background: img src= "/Users/sarahadlington/Techcourse/week-002-html/rose-729509_960_720.jpg"
+  }
+
+h1 {
+    color:rgb(56, 125, 170);
+    background-color: rgb(150, 31, 67);
+    border-radius: 25px;
+    font-size: 58px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3 {
+    border-top-color: 1px solid red;
+    border: 15px solid blue;
+    border-radius: 25px;
+    padding: 10px 10px 40px 100px; 
+     margin: 30px;
+}
+ 
+    /*image {<img src = :"images/rose-729509_960_720.jpg"/> height="42" width="42" */
+    
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 50px; 
+    width: 200px;
+    height: 150px; 
+  }    
+  img {border-radius: 350px;
+
+  }
+     /* padding = 50 pixles on every side */
