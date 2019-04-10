@@ -3,7 +3,7 @@ table, th, td {
     margin: 150px;
     width: 100%;
     height: 50px;
-    color: white;
+    color:darkolivegreen ;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -30,13 +30,16 @@ p {
 img {
     border-radius: 50%;
     align-items:  center;
-    border: 1px solid #ddd;
+    border: 4px solid #ddd;
     padding: 5px;
     display: block;
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-box-shadow: 19px 21px 10px 7px rgba(23,3,38,0.84); 
+    box-shadow: 19px 21px 10px 7px rgba(23,3,38,0.84);
+    }
+
   
     
       
 
-}
