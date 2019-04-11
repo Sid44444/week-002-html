@@ -40,7 +40,32 @@ img {
     box-shadow: 10px 10px 5px;
     
     }
-    
+    @media only screen and (max-width: 800px) {
+        body {
+            background-color: green;
+        }
+    }
+    @media only screen and (max-width: 790px) {
+        body {
+            background-color: blue;
+        }
+    }
+    @media only screen and (max-width: 780px) {
+        body {
+            background-color: indigo;
+         }
+    }
+
+    @media only screen and (max-width: 670px) {
+        body {
+            background-color: violet;
+        }
+    }
+    @media only screen and (max-width: 660px) {
+        body {
+            background-color:red;
+        }
+    }
 
 
     
