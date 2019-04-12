@@ -47,23 +47,23 @@ img {
     }
     @media only screen and (max-width: 790px) {
         body {
-            background-color: blue;
+            background-color: rgb(66, 244, 241);
         }
     }
     @media only screen and (max-width: 780px) {
         body {
-            background-color: indigo;
+            background-color: rgb(65, 196, 244);
          }
     }
 
     @media only screen and (max-width: 670px) {
         body {
-            background-color: violet;
+            background-color:rgb(65, 121, 244);
         }
     }
     @media only screen and (max-width: 660px) {
         body {
-            background-color:red;
+            background-color:rgb(100, 97, 173);
         }
     }
 
